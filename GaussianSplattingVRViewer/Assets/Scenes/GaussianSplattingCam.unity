@@ -274,7 +274,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   model_file_path: point_cloud.ply
-  default_model: {fileID: 4900000, guid: e06ab9616a0e15447b468b18fed037a6, type: 3}
+  default_model: {fileID: 4900000, guid: f925df59ac5e17d4a80b51212e43f4f6, type: 3}
   mat: {fileID: 2100000, guid: d59cb04912b19fa418c3013c48cdaf83, type: 2}
   cam: {fileID: 1059140517}
   isXr: 0
